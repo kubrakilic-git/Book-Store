@@ -1,0 +1,48 @@
+{
+    "categories": [
+      { "id": 1, "title": "Yerli Kitaplar"},
+      { "id": 2, "title": "Yabancı Kitaplar"},
+      { "id": 3, "title": "Ders-Sınav Kitapları"},
+      { "id": 4, "title": "Üniversite Ders Kitapları"},
+      { "id": 5, "title": "Sınav Kitapları"},
+      { "id": 6, "title": "Ders Kitapları/Testler"},
+      { "id": 7, "title": "Çizgi Romanlar"},
+      { "id": 8, "title": "Manga"},
+      { "id": 9, "title": "Edebiyat"},
+      { "id": 10, "title": "Dünya Öykü"},
+      { "id": 11, "title": "Klasikler"},
+      { "id": 12, "title": "Yerli Öykü"},
+      { "id": 13, "title": "Öyküler"},
+      { "id": 14, "title": "Aşk Romanları"},
+      { "id": 15, "title": "İbretlik Hikayeler"},
+      { "id": 16, "title": "Masallar"},
+      { "id": 17, "title": "Aşk Masalları"},
+      { "id": 18, "title": "Uyku Hikayeleri"},
+      { "id": 19, "title": "Korku Hikayeleri"},
+      { "id": 20, "title": "Çizgi Romanlar"}
+    ],
+    "books": [
+      { "id": 1, "name": "Alacakaranlıkta Bir Öykü", "category_id":1,"shop_id":1},
+      { "id": 2, "name": "Bilinmeyen Bir Kadının Mektubu", "category_id":1,"shop_id":2},
+      { "id": 3, "name": "Amok koşucusu", "category_id":2,"shop_id":3},
+      { "id": 4, "name": "Yakan Sır", "category_id":2,"shop_id":4},
+      { "id": 5, "name": "Korku", "category_id":2,"shop_id":4},
+      { "id": 6, "name": "Gece Yarısı Kütüphanesi", "category_id":9,"shop_id":4},
+      { "id": 7, "name": "Ne İçin varsan Onun İçin  Yaşa", "category_id":9,"shop_id":5},
+      { "id": 8, "name": "Körlük", "category_id":3,"shop_id":6},
+      { "id": 9, "name": "Balıkçı ve Oğlu", "category_id":4,"shop_id":1},
+      { "id": 10, "name": "Dönüşüm","category_id":3,"shop_id":1},
+      { "id": 11, "name": "İçimizdeki Şeytan", "category_id":20,"shop_id":3},
+      { "id": 12, "name": "Saç Örgüsü", "category_id":19,"shop_id":3}
+    ],
+    "stores": [
+      { "id": 1, "name": "dr.com.tr"},
+      { "id": 2, "name": "kitapsec.com.tr"},
+      { "id": 3, "name": "kitapyurdu.com"},
+      { "id": 4, "name": "trendyol.com"},
+      { "id": 5, "name": "hepsiburada.com"},
+      { "id": 6, "name": "n11.com"}
+      
+    ]
+
+  }

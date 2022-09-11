@@ -1,0 +1,80 @@
+    .delete_btn{
+        color: rgb(103, 58, 183) !important;
+        background-color: #fff;
+        border: #fff;
+        width: 70px;
+        font-size: 17px;
+        font-weight: 600;
+        bottom: 20px;
+        position: absolute;
+        display: flex;
+        align-items: center;
+    }
+
+    .delete_btn:hover{
+        color: #fff !important;
+        background-color: rgb(103, 58, 183);
+    }
+    .delete_btn:hover .delete_icon{
+        color: #fff !important;
+        background-color: rgb(103, 58, 183);
+    }
+    .delete_icon{
+        color: rgb(103, 58, 183) !important;
+        margin-right: 0px;
+    }
+    .stores:hover{
+        color: #fff !important;
+        background-color: rgb(103, 58, 183) !important;
+    }
+    .logo{
+        display: flex;
+        align-items: center;
+        
+    }
+    .logo .v-toolbar__title{
+        color:#fff;
+    }
+    .logo:hover{
+        text-decoration: auto;
+    }
+
+    .logo img{
+        height: 50px;
+        margin-left: 50px;
+        margin-right: 15px;
+    }
+    .categories{
+        text-transform: capitalize;
+    }
+    .v-tabs-slider-wrapper{
+        display: none;
+    }
+
+    .theme--dark.v-tabs .v-tab--active:hover::before, .theme--dark.v-tabs .v-tab--active::before{
+        opacity: 0;
+    }
+
+    .v-chip.v-size--default {
+        border-radius: 16px;
+        font-size: 14px;
+        height: 32px;
+        width: 25%;
+    }
+    .theme--light.v-icon {
+        color: #fff;
+    }
+    .footer{
+        background-color: #343a40 !important;
+    }
+
+    .footer div{
+        color: #fff;
+    }
+    .card_book{
+        height: 140px;
+    }
+    .v-application .categories_name {
+        color: #ffffff !important;
+        text-decoration: auto !important;
+    }
